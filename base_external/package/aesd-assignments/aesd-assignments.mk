@@ -13,8 +13,12 @@
 #AESD_ASSIGNMENTS_VERSION = '19c2d391a94a72405d788079db7f77574464deef'
 #AESD_ASSIGNMENTS_VERSION = '679be358ec6f776a36dafb357fc7214c54ca3b33'
 
+
 #AESD_ASSIGNMENTS_VERSION = 'bb0964eb9031e2de21dbe3d20c3839768b36a61d'
-AESD_ASSIGNMENTS_VERSION = '9bf26c22033b4eaf17578dd36a90793af4e565b5'
+
+#AESD_ASSIGNMENTS_VERSION = '9bf26c22033b4eaf17578dd36a90793af4e565b5'
+
+AESD_ASSIGNMENTS_VERSION = '175d947f8cbb88d1927ba005dc063743327c686e'
 
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
